@@ -370,6 +370,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YS2A4276K3;
 				INFOPLIST_FILE = ProjectMultithreading/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Elena-Goroshko.ProjectMultithreading";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -386,6 +387,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YS2A4276K3;
 				INFOPLIST_FILE = ProjectMultithreading/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Elena-Goroshko.ProjectMultithreading";
 				PRODUCT_NAME = "$(TARGET_NAME)";
